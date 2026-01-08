@@ -1,5 +1,5 @@
 # Grafika-2D
-Aplikasi Menggambar &amp; Animasi Objek 2D
+" Rabbit eats carrot "
 # 🎨 Grafika Interaktif 2D – Canvas HTML5
 
 ## 👥 Kontributor
