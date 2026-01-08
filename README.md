@@ -22,6 +22,74 @@ Proyek ini dibuat sebagai Tugas Akhir (UAS) Mata Kuliah Grafika Komputer.
 
 ---
 
+## 🎯Panduan Lengkap Game: Rabbit eats carrot
+- 1. Cara Bermain Game
+Langkah-langkah bermain Mini Game: Kelinci Makan Wortel adalah sebagai berikut:
+
+Memulai Permainan
+Setelah game dijalankan, layar awal akan menampilkan judul game dan instruksi singkat. Pemain dapat memulai permainan dengan menekan sembarang tombol pada keyboard.
+
+Mengendalikan Karakter
+Pemain dapat menggerakkan karakter kelinci ke arah kiri dan kanan menggunakan:
+
+Tombol panah kiri (←) dan panah kanan (→), atau
+
+Tombol A untuk bergerak ke kiri dan D untuk bergerak ke kanan.
+
+Mengumpulkan Wortel
+Wortel akan jatuh dari bagian atas layar secara acak. Pemain harus mengarahkan kelinci agar dapat menangkap wortel tersebut.
+
+Setiap wortel yang berhasil ditangkap akan menambah 10 poin skor.
+
+Sistem Nyawa
+Pemain memiliki 3 nyawa di awal permainan.
+
+Jika wortel tidak tertangkap dan jatuh melewati batas bawah layar, maka satu nyawa akan berkurang.
+
+Permainan akan berakhir ketika seluruh nyawa habis.
+
+Level Permainan
+Level permainan akan meningkat secara otomatis berdasarkan skor yang diperoleh. Semakin tinggi level, kecepatan jatuh wortel akan semakin cepat sehingga permainan menjadi lebih menantang.
+
+2. Cara Menjalankan Game
+
+Untuk menjalankan game Mini Game: Kelinci Makan Wortel, pengguna perlu mengikuti langkah-langkah berikut:
+
+a. Persiapan Perangkat Lunak
+Pastikan perangkat telah terinstal:
+Python versi 3.x
+Library Pygame
+Apabila Pygame belum terinstal, lakukan instalasi melalui Command Prompt atau Terminal dengan perintah:
+pip install pygame
+
+b. Menyiapkan File Game
+Simpan file program utama dengan nama:
+game_kelinci_23062.py
+File gambar pendukung (jika tersedia) diletakkan dalam satu folder yang sama, antara lain:
+kelinciku.webp
+wortel.png
+gunung.png
+Apabila file gambar tidak tersedia, game tetap dapat dijalankan karena program telah menyediakan gambar cadangan secara otomatis.
+
+c. Menjalankan Program
+
+Buka Command Prompt / Terminal.
+
+Arahkan direktori ke folder tempat file game disimpan menggunakan perintah cd.
+
+Jalankan game dengan perintah:
+
+python game_kelinci_23062.py
+
+
+Jendela game akan muncul dan siap dimainkan.
+
+d. Mengakhiri Permainan
+
+Permainan akan berakhir secara otomatis ketika nyawa pemain habis. Pemain juga dapat menutup game kapan saja dengan menekan tombol close (X) pada jendela permainan.
+
+---
+
 ## 🎯 Tujuan Proyek
 - Menerapkan konsep grafika komputer 2D
 - Melatih kolaborasi menggunakan GitHub
