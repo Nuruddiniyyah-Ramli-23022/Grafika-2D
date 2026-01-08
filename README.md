@@ -42,7 +42,7 @@ Apabila Pygame belum terinstal, lakukan instalasi melalui Command Prompt atau Te
 pip install pygame
 2. Menyiapkan File Game
 Simpan file program utama dengan nama:
-game_kelinci_23062.py
+game_kelinci_23010.py
 File gambar pendukung (jika tersedia) diletakkan dalam satu folder yang sama, antara lain:
 kelinciku.webp
 wortel.png
