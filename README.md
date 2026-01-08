@@ -61,7 +61,7 @@ Permainan akan berakhir secara otomatis ketika nyawa pemain habis. Pemain juga d
 - Menerapkan konsep grafika komputer 2D
 - Melatih kolaborasi menggunakan GitHub
 - Memahami workflow fork, pull request, dan merge
-
+  
 ## 🛠️ Teknologi yang Digunakan
 - HTML5
 - CSS3
