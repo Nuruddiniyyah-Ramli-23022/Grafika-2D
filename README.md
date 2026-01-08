@@ -8,7 +8,7 @@
 - Kontributor:
   - Muhammad Fadil Ramli
   - M. Riskal
-
+    
 ## 📌 Deskripsi Proyek
 Game “Mini Game: Rabbit eats carrot” merupakan permainan dua dimensi (2D) sederhana yang dikembangkan menggunakan bahasa pemrograman Python dengan library Pygame. Game ini dirancang sebagai media hiburan sekaligus pembelajaran dasar dalam pengembangan game, khususnya dalam penerapan konsep sprite, collision detection, pengaturan skor, dan sistem level. Dalam permainan ini, pemain mengendalikan karakter seekor kelinci yang berada di bagian bawah layar. Tugas pemain adalah menangkap wortel yang jatuh secara acak dari atas layar. Setiap wortel yang berhasil ditangkap akan menambah skor pemain. Seiring bertambahnya skor, tingkat kesulitan permainan juga meningkat melalui peningkatan kecepatan jatuh wortel. Game ini dilengkapi dengan elemen visual sederhana seperti latar belakang pegunungan, rumput, serta animasi objek kelinci dan wortel. Selain itu, terdapat sistem nyawa yang membatasi jumlah kesalahan pemain. Permainan akan berakhir apabila seluruh nyawa habis.
 
